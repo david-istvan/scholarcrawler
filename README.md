@@ -1,4 +1,4 @@
-# scholarcrawler
+# scholarscraper
 
 Absolutely simplistic scraper for extracting search hits from Google Scholar.
 
